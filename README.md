@@ -6,7 +6,7 @@ CCTV 0.4.4 release candidate: Thai TV controls, Mi Box hold-OK menu, automatic H
 
 Use **Settings → Check for updates** in CCTV 0.3 or later. Android asks you to confirm installation. Keep the same app installed to preserve saved cameras.
 
-This repository contains public APKs and update information only. Source remains private.
+This repository contains public APKs and update information only. [Source code and release notes are public in pnntrn/cctv-tv](https://github.com/pnntrn/cctv-tv).
 
 SHA-256: `c801e4b006f8372d64b5a4a9db5636a09720fda92e7480ad0f4e3c6db01d1094`
 
