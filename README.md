@@ -6,7 +6,7 @@ CCTV 0.4.5 release candidate: fixes HEVC startup when recorder continuation-frag
 
 Use **Settings → Check for updates** in CCTV 0.3 or later. Android asks you to confirm installation. Keep the same app installed to preserve saved cameras.
 
-This repository contains public APKs and update information only. Source remains private.
+This repository contains public APKs and update information only. [Source code and release notes are public in pnntrn/cctv-tv](https://github.com/pnntrn/cctv-tv).
 
 SHA-256: `2bab8504e2b08a1a9528a9741f4d6aa33ca2a6cfb414f8d9801e40d740ec76de`
 
