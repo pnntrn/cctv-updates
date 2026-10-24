@@ -1,21 +1,13 @@
-# CCTV for Android TV
+# CCTV Android TV
 
-[Download CCTV 0.3.0 APK](https://raw.githubusercontent.com/pnntrn/cctv-updates/50314946501bd4287398fc339280b6c2e4bd829b/apks/cctv-0.3.0-1006.apk) · 430,842 bytes (421 KiB)
+[Download CCTV 0.4.4](https://raw.githubusercontent.com/pnntrn/cctv-updates/101951f4f3a64b05c6eeb2af1d82ebbafdf7ae22/apks/cctv-0.4.4-1012.apk) · 542,883 bytes
 
-Lightweight RTSP viewing for Android TV and TV sticks. Supports location profiles, 1/4/9/16 substream tiles, fullscreen mainstream, and remote-controlled camera ordering.
+CCTV 0.4.4 release candidate: Thai TV controls, Mi Box hold-OK menu, automatic H.264/H.265 detection, separate substream/mainstream technician tests, and vendor SDP compatibility fixes. H.265+ requires testing on your actual recorder and TV. Install over the existing retained-key app without uninstalling. Source and candidate notes: https://github.com/pnntrn/cctv-tv/releases/tag/v0.4.4-rc.2
 
-## Updates
+Use **Settings → Check for updates** in CCTV 0.3 or later. Android asks you to confirm installation. Keep the same app installed to preserve saved cameras.
 
-Install this version once, then use **Settings → Check for updates → Download update → Install** for future releases. Android may ask you to allow installation from CCTV and confirm the update.
+This repository contains public APKs and update information only. Source remains private.
 
-Signed releases use the same permanent key to preserve saved cameras. Moving from an older debug build may require a one-time uninstall; signed 0.2 releases can update in place.
-
-This repository holds public APKs and update information only. Application source remains private. No camera credentials, signing keys or account tokens are published.
-
-## Verification
-
-Android build, unit tests, and lint passed locally. APK signature verified against the retained release certificate. GitHub Actions could not start because of an account billing/spending-limit block. The updated native emulator smoke test and real-TV installer flow have not yet completed validation.
-
-APK SHA-256: `a43862eee23d484b36ffe4158f9aa561dd32eaa2dded212032777ff1ec591bb0`
+SHA-256: `c801e4b006f8372d64b5a4a9db5636a09720fda92e7480ad0f4e3c6db01d1094`
 
 Signing certificate SHA-256: `4bb96b0ff9021cc49885f9cdd02d62ec3e58c3704cd65853e8dc2269316c5f9b`

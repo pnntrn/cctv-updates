@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "com.pnntrn.cctv",
-  "versionCode": 1006,
-  "versionName": "0.3.0",
+  "versionCode": 1012,
+  "versionName": "0.4.4",
   "minSdk": 26,
-  "size": 430842,
-  "sha256": "a43862eee23d484b36ffe4158f9aa561dd32eaa2dded212032777ff1ec591bb0",
-  "url": "https://raw.githubusercontent.com/pnntrn/cctv-updates/50314946501bd4287398fc339280b6c2e4bd829b/apks/cctv-0.3.0-1006.apk",
-  "notes": "New: Check for updates in Settings. Download verified updates using the TV remote, then confirm installation on Android. Your saved locations and camera order stay in place."
+  "size": 542883,
+  "sha256": "c801e4b006f8372d64b5a4a9db5636a09720fda92e7480ad0f4e3c6db01d1094",
+  "url": "https://raw.githubusercontent.com/pnntrn/cctv-updates/101951f4f3a64b05c6eeb2af1d82ebbafdf7ae22/apks/cctv-0.4.4-1012.apk",
+  "notes": "CCTV 0.4.4 release candidate: Thai TV controls, Mi Box hold-OK menu, automatic H.264/H.265 detection, separate substream/mainstream technician tests, and vendor SDP compatibility fixes. H.265+ requires testing on your actual recorder and TV. Install over the existing retained-key app without uninstalling. Source and candidate notes: https://github.com/pnntrn/cctv-tv/releases/tag/v0.4.4-rc.2"
 }
